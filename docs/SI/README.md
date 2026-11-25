@@ -1,5 +1,6 @@
 # SISTEMAS INFORMÁTICOS
-
+> [!ATTENTiON]
+> ¡Las explicaciones son muy condensadas!
 ## Unidad 7
 ### Apartados
 - Clasificación y licencias de software
